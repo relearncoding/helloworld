@@ -1,0 +1,2 @@
+1. To view the source code in the publicly available repository go to https://github.com/relearncoding/helloworld/tree/gh-pages
+2. To launch the static HTML page type https://relearncoding.github.io/helloworld
